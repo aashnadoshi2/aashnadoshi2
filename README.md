@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashnadoshi2
 - 👀 I’m interested in Machine Learning, Natural Language Processing and Robotics
-- 🌱 I’m currently a Masters Student at the Georgia Institute of Technology specializing in Machine Learning
+- 🌱 I’m currently a Masters Student at the Georgia Institute of Technology specializing in ML
 - 💞️ I’m looking to collaborate on cool ML projects!
 - 📫 Reach out to my on my email aashnadoshi2@gmail.com
 
