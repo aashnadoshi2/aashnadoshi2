@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Natural Language Processing and Computer Vision.
 - 🖥️ I am currently a Software Engineer working @ Google.
 - 🌱 I graduated with a Masters degree in ML at the Georgia Institute of Technology.
-- - 💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like fashion x tech.
+- 💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like fashion x tech.
 - 💞️ I’m looking to collaborate on cool ML projects!
 - 📫 Reach out to my on my email aashnadoshi2@gmail.com
 
