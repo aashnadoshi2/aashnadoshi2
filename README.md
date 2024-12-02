@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashnadoshi2
 - 👀 I’m interested in Machine Learning, Natural Language Processing and Computer Vision.
-- 🖥️ I am currently a Software Engineer working @ Google.
+- 🖥️ Currently a SWE working @ Google.
 - 🌱 I graduated with a Masters degree in ML at the Georgia Institute of Technology.
 - 💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like fashion x tech.
 - 💞️ I’m looking to collaborate on cool ML projects!
