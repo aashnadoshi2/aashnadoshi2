@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Aashna Doshi</h1>
 <h3 align="left">About me</h3>
 
-- 👀 I’m interested in Machine Learning, Natural Language Processing and Computer Vision.
 - 🖥️ Currently a SWE working @ Google.
+- 👀 I’m interested in Machine Learning, Natural Language Processing and Computer Vision.
 - 🌱 I graduated with a Masters degree in ML at the Georgia Institute of Technology.
 - 💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like fashion x tech.
 - 💞️ I’m looking to collaborate on cool ML projects!
