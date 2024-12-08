@@ -17,8 +17,8 @@
 
 <h3 align="left">Mentorship:</h3>
 <p align="left">
-🚀 Need help breaking into big tech or navigating your career journey?  
-🤝 Connect with me for 1:1 mentorship sessions on <a href="https://topmate.io/aashna_doshi" target="_blank">Topmate</a> to get personalized guidance and actionable insights.
+🚀 Need help breaking into big tech or navigating your career journey? </p>
+<p align="left"> Connect with me for 1:1 mentorship sessions on <a href="https://topmate.io/aashna_doshi" target="_blank">Topmate</a> to get personalized guidance and actionable insights.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
