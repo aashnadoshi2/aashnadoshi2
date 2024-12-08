@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Aashna Doshi</h1>
 
 ## About Me:
-🖥️  Currently a SWE working @ Google.<br>👀 I’m interested in Machine Learning, Natural Language Processing and Computer Vision.<br>🌱 I graduated with a Masters degree in ML at the Georgia Institute of Technology.<br>💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like fashion x tech.<br>💞️ I’m looking to collaborate on cool ML projects!<br>📫 Reach out to my on my email aashnadoshi2@gmail.com
+🖥️  Currently a SWE working @ Google.<br>👀 I’m interested in Machine Learning, Natural Language Processing and Computer Vision.<br>🌱 I graduated with a Masters degree in ML at the Georgia Institute of Technology.<br>💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like fashion x tech.<br>💞️ I’m looking to collaborate on cool ML projects!<br>🚀 Connect with me for 1:1 mentorship sessions on <a href="https://topmate.io/aashna_doshi" target="_blank">Topmate</a> to get personalized guidance and actionable insights.
+
 
 
 ## 🌐 Socials:
