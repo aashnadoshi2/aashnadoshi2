@@ -8,8 +8,8 @@ Building at the intersection of AI, engineering, startups, and internet culture.
 
 ## About Me
 
-🖥️ Software Engineer @ Google  
-🚀 Co-founder building in AI + marketplaces  
+🚀 Founder building Bounty- an AI agent marketplace 
+🖥️ Ex-Software Engineer @ Google  
 🎙️ Host of the 0 to 1 podcast  
 📍 Based in NYC  
 🎓 M.S. in Machine Learning from Georgia Tech  
